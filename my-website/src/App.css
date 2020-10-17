@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+h1.ui.huge.icon.header {
+  font-size: 3em;
+  text-shadow: black 0px 0px 10px;
+  color: white;
+}
+
+.ui.segment.header-bg {
+  background-size: '100%';
+  height: '40vh'
+}
+
+@media only screen and (max-width: 730px) {
+  .ui.placeholder.segment.header-bg {
+    background-size: 180% !important;
+  }  
+}
