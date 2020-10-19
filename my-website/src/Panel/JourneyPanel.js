@@ -109,8 +109,8 @@ class JourneyPanel extends Component {
                     <div className="flexColumn">
                         {this.state.experiences.map((experience, index) => {
                             return (
-                                <FadeInSection>
-                                    <Experience key={index} logo={experience.logo} workplace={experience.workplace} position={experience.position} duration={experience.duration} points={experience.points}/>
+                                <FadeInSection key={index}>
+                                    <Experience logo={experience.logo} workplace={experience.workplace} position={experience.position} duration={experience.duration} points={experience.points}/>
                                 </FadeInSection>
                             )
                         })}
