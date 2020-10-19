@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Personal-Site/static/css/main.2abe1bcc.chunk.css",
+    "main.js": "/Personal-Site/static/js/main.bbfa69a6.chunk.js",
+    "main.js.map": "/Personal-Site/static/js/main.bbfa69a6.chunk.js.map",
+    "runtime-main.js": "/Personal-Site/static/js/runtime-main.d23a0406.js",
+    "runtime-main.js.map": "/Personal-Site/static/js/runtime-main.d23a0406.js.map",
+    "static/css/2.36236b32.chunk.css": "/Personal-Site/static/css/2.36236b32.chunk.css",
+    "static/js/2.118ac55a.chunk.js": "/Personal-Site/static/js/2.118ac55a.chunk.js",
+    "static/js/2.118ac55a.chunk.js.map": "/Personal-Site/static/js/2.118ac55a.chunk.js.map",
+    "index.html": "/Personal-Site/index.html",
+    "precache-manifest.c1b935472e0be475f85b823eefe1ea49.js": "/Personal-Site/precache-manifest.c1b935472e0be475f85b823eefe1ea49.js",
+    "service-worker.js": "/Personal-Site/service-worker.js",
+    "static/css/2.36236b32.chunk.css.map": "/Personal-Site/static/css/2.36236b32.chunk.css.map",
+    "static/css/main.2abe1bcc.chunk.css.map": "/Personal-Site/static/css/main.2abe1bcc.chunk.css.map",
+    "static/js/2.118ac55a.chunk.js.LICENSE.txt": "/Personal-Site/static/js/2.118ac55a.chunk.js.LICENSE.txt",
+    "static/media/FinnLANDLab_logo.png": "/Personal-Site/static/media/FinnLANDLab_logo.d8f6810a.png",
+    "static/media/index.css": "/Personal-Site/static/media/RobotoSlab-VariableFont_wght.0b2aeb1c.ttf",
+    "static/media/StudyBuddies.png": "/Personal-Site/static/media/StudyBuddies.df7fa104.png",
+    "static/media/TapHero.jpg": "/Personal-Site/static/media/TapHero.e26634b9.jpg",
+    "static/media/UofT_logo.png": "/Personal-Site/static/media/UofT_logo.82e33652.png",
+    "static/media/semantic.min.css": "/Personal-Site/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/dasky.jpg": "/Personal-Site/static/media/dasky.fe6138c1.jpg",
+    "static/media/eccc_logo.jpg": "/Personal-Site/static/media/eccc_logo.d9a5a4c1.jpg",
+    "static/media/indexexchange_logo.png": "/Personal-Site/static/media/indexexchange_logo.35fb4091.png",
+    "static/media/me.jpg": "/Personal-Site/static/media/me.87578956.jpg",
+    "static/media/rhking_logo.png": "/Personal-Site/static/media/rhking_logo.c86df78d.png",
+    "static/media/send.png": "/Personal-Site/static/media/send.31837dea.png",
+    "static/media/stickavalanche.png": "/Personal-Site/static/media/stickavalanche.bd4dd2cd.png",
+    "static/media/tron.png": "/Personal-Site/static/media/tron.ecfa3885.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d23a0406.js",
+    "static/css/2.36236b32.chunk.css",
+    "static/js/2.118ac55a.chunk.js",
+    "static/css/main.2abe1bcc.chunk.css",
+    "static/js/main.bbfa69a6.chunk.js"
+  ]
+}
