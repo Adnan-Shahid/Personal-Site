@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Personal-Site/static/css/main.2abe1bcc.chunk.css",
-    "main.js": "/Personal-Site/static/js/main.bbfa69a6.chunk.js",
-    "main.js.map": "/Personal-Site/static/js/main.bbfa69a6.chunk.js.map",
+    "main.css": "/Personal-Site/static/css/main.6e99ea8e.chunk.css",
+    "main.js": "/Personal-Site/static/js/main.58a61ecb.chunk.js",
+    "main.js.map": "/Personal-Site/static/js/main.58a61ecb.chunk.js.map",
     "runtime-main.js": "/Personal-Site/static/js/runtime-main.d23a0406.js",
     "runtime-main.js.map": "/Personal-Site/static/js/runtime-main.d23a0406.js.map",
     "static/css/2.36236b32.chunk.css": "/Personal-Site/static/css/2.36236b32.chunk.css",
-    "static/js/2.118ac55a.chunk.js": "/Personal-Site/static/js/2.118ac55a.chunk.js",
-    "static/js/2.118ac55a.chunk.js.map": "/Personal-Site/static/js/2.118ac55a.chunk.js.map",
+    "static/js/2.b8aa3df8.chunk.js": "/Personal-Site/static/js/2.b8aa3df8.chunk.js",
+    "static/js/2.b8aa3df8.chunk.js.map": "/Personal-Site/static/js/2.b8aa3df8.chunk.js.map",
     "index.html": "/Personal-Site/index.html",
-    "precache-manifest.c1b935472e0be475f85b823eefe1ea49.js": "/Personal-Site/precache-manifest.c1b935472e0be475f85b823eefe1ea49.js",
+    "precache-manifest.49cc6a9e75a919da2559f53197ce65ce.js": "/Personal-Site/precache-manifest.49cc6a9e75a919da2559f53197ce65ce.js",
     "service-worker.js": "/Personal-Site/service-worker.js",
     "static/css/2.36236b32.chunk.css.map": "/Personal-Site/static/css/2.36236b32.chunk.css.map",
-    "static/css/main.2abe1bcc.chunk.css.map": "/Personal-Site/static/css/main.2abe1bcc.chunk.css.map",
-    "static/js/2.118ac55a.chunk.js.LICENSE.txt": "/Personal-Site/static/js/2.118ac55a.chunk.js.LICENSE.txt",
+    "static/css/main.6e99ea8e.chunk.css.map": "/Personal-Site/static/css/main.6e99ea8e.chunk.css.map",
+    "static/js/2.b8aa3df8.chunk.js.LICENSE.txt": "/Personal-Site/static/js/2.b8aa3df8.chunk.js.LICENSE.txt",
     "static/media/FinnLANDLab_logo.png": "/Personal-Site/static/media/FinnLANDLab_logo.d8f6810a.png",
     "static/media/index.css": "/Personal-Site/static/media/RobotoSlab-VariableFont_wght.0b2aeb1c.ttf",
     "static/media/StudyBuddies.png": "/Personal-Site/static/media/StudyBuddies.df7fa104.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.d23a0406.js",
     "static/css/2.36236b32.chunk.css",
-    "static/js/2.118ac55a.chunk.js",
-    "static/css/main.2abe1bcc.chunk.css",
-    "static/js/main.bbfa69a6.chunk.js"
+    "static/js/2.b8aa3df8.chunk.js",
+    "static/css/main.6e99ea8e.chunk.css",
+    "static/js/main.58a61ecb.chunk.js"
   ]
 }
