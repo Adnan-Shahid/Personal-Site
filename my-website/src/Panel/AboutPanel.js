@@ -23,7 +23,7 @@ class AboutPanel extends Component {
                                 <span><strong>Location:</strong> Toronto, Ontario, Canada</span>
                             </div>
                             <div className="descriptionContent">
-                                <p>I'm a developer with varied experiences, with a stronger focus on web development. I love taking pictures of nature (the header image is a picture I took!), 
+                                <p>I'm primarily a web developer, but I'm also well versed in various other areas of programming. I love taking pictures of nature (the header image is a picture I took!), 
                                     exercising and playing video games. I strive to constantly learn and challenge myself to develop my skillset every day! Aside from my passion for programming, 
                                     a fun hobby I enjoy is collecting useless but surprisingly useful things!</p>
                             </div>
