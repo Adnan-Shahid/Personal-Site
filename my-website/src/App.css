@@ -53,3 +53,41 @@ h1.ui.huge.icon.header {
     background-size: 180% !important;
   }  
 }
+
+
+div.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 88vh;
+  z-index: 99;
+  margin-left: 95%;
+}
+
+@media only screen and (max-width: 1030px) {
+  div.sticky {
+    display: none;
+  }
+
+  .whiteFix {
+    margin-top: 0px;
+  }
+}
+
+.whiteFix {
+  margin-top: -88px;
+}
+
+.noMargin {
+  margin: 0px !important;
+}
+
+.nav {
+  width: 25px;
+  display: flex !important;
+  justify-content: center;
+  margin-bottom: 10px !important;
+}
+
+.appear {
+  z-index: 999;
+}

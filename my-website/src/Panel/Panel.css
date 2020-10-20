@@ -259,3 +259,7 @@ img.personal {
 .contact > a {
     margin-right: 20px;
 }
+
+.pushDown {
+    margin-bottom: 50px;
+}

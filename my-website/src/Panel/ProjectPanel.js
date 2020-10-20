@@ -10,7 +10,7 @@ class AboutPanel extends Component {
     render () {
         return (
             <Segment inverted vertical>
-                <div className="flexColumn centerItems center">
+                <div className="flexColumn centerItems center pushDown">
                     <div className="panelHeader"><h1>Projects</h1></div>
                     <div className="divider"></div>
                     <div className="flexColumn centerItems center">
